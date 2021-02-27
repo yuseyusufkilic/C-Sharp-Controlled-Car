@@ -1,0 +1,20 @@
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.csprojAssemblyReference.cache
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.Form1.resources
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.Properties.Resources.resources
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.csproj.GenerateResource.cache
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.csproj.CoreCompileInputs.cache
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\bin\Debug\xxPROJExx.exe.config
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\bin\Debug\xxPROJExx.exe
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\bin\Debug\xxPROJExx.pdb
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.exe
+C:\Users\humey\source\repos\xxPROJExx\xxPROJExx\obj\Debug\xxPROJExx.pdb
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\bin\Debug\xxPROJExx.exe.config
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\bin\Debug\xxPROJExx.exe
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\bin\Debug\xxPROJExx.pdb
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.csprojAssemblyReference.cache
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.Form1.resources
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.Properties.Resources.resources
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.csproj.GenerateResource.cache
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.csproj.CoreCompileInputs.cache
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.exe
+C:\Users\humey\source\repos\xxPROJExx - Kopya\xxPROJExx\obj\Debug\xxPROJExx.pdb
